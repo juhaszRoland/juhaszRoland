@@ -3,7 +3,7 @@
 
 **juhaszRoland/juhaszRoland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [Wow](https://www.emag.hu)
-![alt text](image.jpg)
+![alt text](goose-8222013_640.jpg)
 <!--
 Here are some ideas to get you started:
 
