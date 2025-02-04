@@ -51,6 +51,7 @@
 
 - 💬 [LinkedIn](https://linkedin.com/in/linkedined)
 - 📧 Email: your.email@example.com
+- [📱](tel:+36123456789)
 
 ---
 
