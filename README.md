@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  SOON <br>
   <a href="https://linkedin.com/in/linkedined"> 
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/-Portfolio-000?style=flat&logo=firefox&logoColor=white" />
+  SOON <br>
 </p>
 
 ---
