@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  SOON
   <a href="https://linkedin.com/in/linkedined"> 
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
