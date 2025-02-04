@@ -4,14 +4,6 @@
   <i>💻 Passionate about crafting clean and efficient code!</i>
 </p>
 
-[<p align="center">
-  <a href="https://linkedin.com/in/linkedined"> 
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/-Portfolio-000?style=flat&logo=firefox&logoColor=white" />
-  SOON <br>
-</p>](url)
-
 ---
 
 ### 🔧 Tech Stack
@@ -40,6 +32,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=juhaszRoland&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juhaszRoland&layout=compact&theme=radical" alt="Top Languages" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rolandjuhasze&theme=radical" alt="GitHub Streak" />
+</div>
+
 
 ---
 
