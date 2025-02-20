@@ -49,10 +49,6 @@
 
 ### 🌐 Connect with Me
 
-- 💬 [LinkedIn](https://linkedin.com/in/linkedined)
-- 📧 Email: your.email@example.com
-- [📱](tel:+36123456789)
 
 ---
 
-Mit gondolsz? Ha bármit módosítanál, szólj! Ha van valamilyen személyes logód, azt is be lehet tenni a tetejére. 🚀
